@@ -14,5 +14,6 @@ I took a preliminary course on C, and am currently working on building my knowle
 11. CCSM ISC2
 12. Rust
 13. Google Cybersecurity
+
 I’m looking to collaborate on anything under the sun. Here to learn.
 Email: lgreenwood2021@fau.edu
